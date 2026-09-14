@@ -1,2 +1,3 @@
 # Arduino-project
-My Arduino and ESP32 project
+My Arduino and ESP32 project.
+This repository is used to learn Arduino, ESP32, Git, and GitHub.
